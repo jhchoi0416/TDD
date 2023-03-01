@@ -1,6 +1,9 @@
 # TDD (Test Driven Development)
-
-### 6. Right-BICEP: 무엇을 테스트할 것인가?
+### 1. JUnit
+### 2. JUnit 단언
+### 3. 테스트 조직
+### 4. 좋은 테스트의 First 속성
+### 5. Right-BICEP: 무엇을 테스트할 것인가?
 |분류|내용|
 |------|---|
 |Right|결과가 올바른가|
